@@ -1,0 +1,10 @@
+{ 
+    // The path of the VS2017 dev tools cmd.
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Common7\\Tools\\VsDevCmd.bat"
+    ],
+    // Adds the same terminal cursor styles and blinking as the terminal in the editor:
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line"
+}
