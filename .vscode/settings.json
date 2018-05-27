@@ -1,4 +1,5 @@
 { 
+    "telemetry.enableTelemetry": false,
     // The path of the VS2017 dev tools cmd.
     "terminal.integrated.shell.windows": "cmd.exe",
     "terminal.integrated.shellArgs.windows": [
