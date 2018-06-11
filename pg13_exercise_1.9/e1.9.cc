@@ -4,7 +4,7 @@
 int main(){
 
     int sum = 0, val = 50;
-    while(val < 101){
+    while(val <= 100){
         sum += val;
         val++;
     }
