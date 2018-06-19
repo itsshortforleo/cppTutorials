@@ -8,8 +8,6 @@ int main(){
         sum += val;
         val++;
     }
-
     std::cout << "The sum from 50 to 100 inclusive is " << sum << std::endl;
-
     return 0;
 }
