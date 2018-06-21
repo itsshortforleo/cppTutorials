@@ -1,5 +1,5 @@
-// What happens in the program presented in this section if the input
-// values are all equal? What is there are no duplicated values?
+// Compile and run the program from this section giving it only equal
+// values as input. Run it again giving it values in which no number is repeated.
 
 #include <iostream>
 #include <string>
